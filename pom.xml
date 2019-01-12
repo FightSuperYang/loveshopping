@@ -13,6 +13,7 @@
         <module>plat_parent</module>
         <module>basic_parent</module>
         <module>zuul_getway_4396</module>
+        <module>spring_config_service_1299</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

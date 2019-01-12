@@ -1,0 +1,18 @@
+server:
+  port: 1299
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:7001/eureka
+  instance:
+    prefer-ip-address: true
+spring:
+  application:
+    name: loveshopping-config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/FightSuperYang/spring-config-servicer.git
+          username: FightSuperYang
+          password: Yc18728707817

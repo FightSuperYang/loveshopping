@@ -15,6 +15,4 @@
         <module>plat_interface</module>
         <module>plat_service_8001</module>
     </modules>
-
-
 </project>

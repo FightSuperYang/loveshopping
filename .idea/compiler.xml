@@ -10,8 +10,13 @@
         <module name="eureka_service_7001" />
         <module name="plat_interface" />
         <module name="plat_service_8001" />
+        <module name="spring_config_service_1299" />
         <module name="zuul_getway_4396" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring_config_server_1299" target="1.8" />
+      <module name="spring_config_server_9001" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

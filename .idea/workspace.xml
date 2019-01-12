@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0756e547-4b83-4477-b789-036a8ef5eeb2" name="Default" comment="" />
+    <list default="true" id="0756e547-4b83-4477-b789-036a8ef5eeb2" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/plat_parent/plat_service_8001/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_config_service_1299/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_config_service_1299/src/main/java/cn/yangchao/springcloud/SpringCogfigServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_config_service_1299/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul_getway_4396/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_parent/basic_util/target/classes/cn/yangchao/loveshopping/query/BasicQuery.class" beforeDir="false" afterPath="$PROJECT_DIR$/basic_parent/basic_util/target/classes/cn/yangchao/loveshopping/query/BasicQuery.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_parent/basic_util/target/classes/cn/yangchao/loveshopping/util/AjaxResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/basic_parent/basic_util/target/classes/cn/yangchao/loveshopping/util/AjaxResult.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka_service_7001/eureka_service_7001.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka_service_7001/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka_service_7001/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loveshopping.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plat_parent/plat_interface/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/plat_parent/plat_interface/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plat_parent/plat_service_8001/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/plat_parent/plat_service_8001/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plat_parent/plat_service_8001/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/plat_parent/plat_service_8001/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plat_parent/plat_service_8001/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/plat_parent/plat_service_8001/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plat_parent/plat_service_8001/target/classes/cn/yangchao/loveshopping/controller/LoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/plat_parent/plat_service_8001/target/classes/cn/yangchao/loveshopping/controller/LoginController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plat_parent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/plat_parent/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuul_getway_4396/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/zuul_getway_4396/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuul_getway_4396/src/main/java/cn/yangchao/loveshopping/config/DocumentationConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/zuul_getway_4396/src/main/java/cn/yangchao/loveshopping/config/DocumentationConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuul_getway_4396/src/main/java/cn/yangchao/loveshopping/config/SwaggerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/zuul_getway_4396/src/main/java/cn/yangchao/loveshopping/config/SwaggerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuul_getway_4396/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/zuul_getway_4396/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuul_getway_4396/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/zuul_getway_4396/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuul_getway_4396/target/classes/cn/yangchao/loveshopping/config/DocumentationConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/zuul_getway_4396/target/classes/cn/yangchao/loveshopping/config/DocumentationConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuul_getway_4396/target/classes/cn/yangchao/loveshopping/config/SwaggerConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/zuul_getway_4396/target/classes/cn/yangchao/loveshopping/config/SwaggerConfig.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/eureka_service_7001/target/" />
@@ -11,6 +40,9 @@
     <ignored path="$PROJECT_DIR$/basic_parent/basic_util/target/" />
     <ignored path="$PROJECT_DIR$/plat_parent/plat_interface/target/" />
     <ignored path="$PROJECT_DIR$/plat_parent/plat_service_8001/target/" />
+    <ignored path="$PROJECT_DIR$/spring_config_server_9001/target/" />
+    <ignored path="$PROJECT_DIR$/spring_config_server_1299/target/" />
+    <ignored path="$PROJECT_DIR$/spring_config_service_1299/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,25 +52,64 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ZuulGetWayApplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zuul_getway_4396/src/main/java/cn/yangchao/loveshopping/ZuulGetWayApplication.java">
+      <file leaf-file-name="EurekaServiceApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eureka_service_7001/src/main/java/cn/yangchao/loveshopping/EurekaServiceApplication.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
-              <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+              <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#427#428#0" expanded="true" />
-                <element signature="e#493#494#0" expanded="true" />
+                <element signature="e#357#358#0" expanded="true" />
+                <element signature="e#426#427#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.yml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Swagger2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plat_parent/plat_service_8001/src/main/java/cn/yangchao/loveshopping/config/Swagger2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="134">
+              <caret line="23" column="65" lean-forward="true" selection-start-line="23" selection-start-column="65" selection-end-line="23" selection-end-column="65" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DocumentationConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zuul_getway_4396/src/main/java/cn/yangchao/loveshopping/config/DocumentationConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="86">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SwaggerConfig.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/zuul_getway_4396/src/main/java/cn/yangchao/loveshopping/config/SwaggerConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="24" column="58" selection-start-line="24" selection-start-column="58" selection-end-line="24" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/zuul_getway_4396/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24">
-              <caret line="1" column="12" lean-forward="true" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+            <state relative-caret-position="96">
+              <caret line="4" column="22" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zuul_getway_4396/src/main/resources/bootstrap.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -54,27 +125,40 @@
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/eureka_service_7001/pom.xml" />
         <option value="$PROJECT_DIR$/eureka_service_7001/src/main/java/cn/yangchao/loveshopping/EurekaServiceApplication.java" />
-        <option value="$PROJECT_DIR$/plat_parent/plat_interface/pom.xml" />
         <option value="$PROJECT_DIR$/plat_parent/plat_interface/src/main/java/cn/yangchao/loveshopping/domain/Employee.java" />
-        <option value="$PROJECT_DIR$/plat_parent/plat_service_8001/pom.xml" />
-        <option value="$PROJECT_DIR$/plat_parent/plat_service_8001/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/plat_parent/plat_service_8001/src/main/java/cn/yangchao/shopping/PlatServiceApplication.java" />
         <option value="$PROJECT_DIR$/plat_parent/plat_service_8001/src/main/java/cn/yangchao/shopping/controller/LoginController.java" />
         <option value="$PROJECT_DIR$/plat_parent/plat_service_8001/src/main/java/cn/yangchao/shopping/config/Swagger2.java" />
-        <option value="$PROJECT_DIR$/plat_parent/plat_service_8001/src/main/java/cn/yangchao/loveshopping/config/Swagger2.java" />
-        <option value="$PROJECT_DIR$/zuul_getway_4396/pom.xml" />
         <option value="$PROJECT_DIR$/zuul_getway_4396/src/main/java/cn/yangchao/loveshopping/ZuulGetWayApplication.java" />
-        <option value="$PROJECT_DIR$/zuul_getway_4396/src/main/java/cn/yangchao/loveshopping/config/SwaggerConfig.java" />
         <option value="$PROJECT_DIR$/plat_parent/plat_service_8001/src/main/java/cn/yangchao/loveshopping/controller/LoginController.java" />
         <option value="$PROJECT_DIR$/basic_parent/basic_util/src/main/java/cn/yangchao/loveshopping/util/AjaxResult.java" />
+        <option value="$PROJECT_DIR$/basic_parent/basic_util/src/main/java/cn/yangchao/loveshopping/query/BasicQuery.java" />
+        <option value="$PROJECT_DIR$/spring_config_server_9001/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/spring_config_server_1299/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_config_server_9001/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_config_service_1299/src/main/java/cn/yangchao/springcloud/SpringCogfigServiceApplication.java" />
+        <option value="$PROJECT_DIR$/plat_parent/plat_service_8001/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/zuul_getway_4396/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/spring_config_service_1299/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/plat_parent/plat_service_8001/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/zuul_getway_4396/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/plat_parent/plat_interface/pom.xml" />
+        <option value="$PROJECT_DIR$/plat_parent/pom.xml" />
+        <option value="$PROJECT_DIR$/zuul_getway_4396/pom.xml" />
+        <option value="$PROJECT_DIR$/plat_parent/plat_service_8001/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_config_service_1299/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka_service_7001/pom.xml" />
+        <option value="$PROJECT_DIR$/zuul_getway_4396/src/main/java/cn/yangchao/loveshopping/config/DocumentationConfig.java" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/plat_parent/plat_service_8001/src/main/java/cn/yangchao/loveshopping/config/Swagger2.java" />
+        <option value="$PROJECT_DIR$/zuul_getway_4396/src/main/java/cn/yangchao/loveshopping/config/SwaggerConfig.java" />
       </list>
     </option>
   </component>
@@ -102,25 +186,21 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="plat_interface" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="plat_interface" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="plat_service_8001" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="plat_service_8001" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="plat_service_8001" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-          <item name="io.springfox:springfox-swagger-ui:2.9.2" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="plat_service_8001" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-          <item name="io.springfox:springfox-swagger-ui:2.9.2" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
-          <item name="io.springfox:springfox-spring-web:2.9.2" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
       </expand>
       <select />
@@ -129,17 +209,21 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="117" />
-    <option name="y" value="5" />
-    <option name="width" value="1398" />
-    <option name="height" value="1080" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="305" />
+    <option name="y" value="15" />
+    <option name="width" value="1424" />
+    <option name="height" value="975" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -151,33 +235,41 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="F:/iedasdk" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="F:/Git/bin/git.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\0731JAVA\idearepository\admin\loveshopping\zuul_getway_4396\src\main\resources" />
       <recent name="D:\0731JAVA\IDEAProject\loveshopping\zuul_getway_4396\src\main\java\cn\yangchao\loveshopping\config" />
       <recent name="D:\0731JAVA\IDEAProject\loveshopping\zuul_getway_4396\src\main\resources" />
       <recent name="D:\0731JAVA\IDEAProject\loveshopping\plat_parent\plat_service_8001\src\main\java\cn\yangchao\shopping\config" />
       <recent name="D:\0731JAVA\IDEAProject\loveshopping\plat_parent\plat_service_8001\src\main\resources" />
-      <recent name="D:\0731JAVA\IDEAProject\loveshopping\basic_parent\basic_util\src\main\java\cn\yangchao\loveshopping\util" />
     </key>
   </component>
   <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
     <option name="ruleStates">
       <list>
         <RuleState>
@@ -188,52 +280,9 @@
         </RuleState>
       </list>
     </option>
+    <option name="contentProportion" value="0.2162902" />
   </component>
-  <component name="RunManager" selected="Application.EurekaServiceApplication">
-    <configuration name="EurekaServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.yangchao.loveshopping.EurekaServiceApplication" />
-      <module name="eureka_service_7001" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.yangchao.loveshopping.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="LoginController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.yangchao.loveshopping.controller.LoginController" />
-      <module name="plat_service_8001" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.yangchao.loveshopping.controller.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="PlatServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.yangchao.loveshopping.PlatServiceApplication" />
-      <module name="plat_service_8001" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.yangchao.loveshopping.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="ZuulGetWayApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.yangchao.loveshopping.ZuulGetWayApplication" />
-      <module name="zuul_getway_4396" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.yangchao.loveshopping.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="Spring Boot.EurekaServiceApplication">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -252,6 +301,142 @@
         <value defaultName="singleModule" />
       </option>
       <patterns />
+    </configuration>
+    <configuration name="basic_util [package]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="package" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/basic_parent/basic_util" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+    </configuration>
+    <configuration name="plat_interface [package]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="package" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/plat_parent/plat_interface" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+    </configuration>
+    <configuration name="plat_parent [clean]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/plat_parent" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+    </configuration>
+    <configuration name="plat_parent [install]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="install" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/plat_parent" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+    </configuration>
+    <configuration name="plat_parent [package]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="package" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/plat_parent" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+    </configuration>
+    <configuration name="EurekaServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka_service_7001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.yangchao.loveshopping.EurekaServiceApplication" />
+    </configuration>
+    <configuration name="PlatServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="plat_service_8001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.yangchao.loveshopping.PlatServiceApplication" />
+    </configuration>
+    <configuration name="SpringCogfigServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring_config_service_1299" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.yangchao.springcloud.SpringCogfigServiceApplication" />
+    </configuration>
+    <configuration name="ZuulGetWayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="zuul_getway_4396" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.yangchao.loveshopping.ZuulGetWayApplication" />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -275,18 +460,82 @@
       <properties />
       <listeners />
     </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Twisted Trial">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
     <list>
-      <item itemvalue="Application.EurekaServiceApplication" />
-      <item itemvalue="Application.PlatServiceApplication" />
-      <item itemvalue="Application.ZuulGetWayApplication" />
-      <item itemvalue="Application.LoginController" />
+      <item itemvalue="Spring Boot.PlatServiceApplication" />
+      <item itemvalue="Spring Boot.ZuulGetWayApplication" />
+      <item itemvalue="Spring Boot.EurekaServiceApplication" />
+      <item itemvalue="Spring Boot.SpringCogfigServiceApplication" />
+      <item itemvalue="Maven.plat_parent [package]" />
+      <item itemvalue="Maven.basic_util [package]" />
+      <item itemvalue="Maven.plat_parent [clean]" />
+      <item itemvalue="Maven.plat_parent [install]" />
+      <item itemvalue="Maven.plat_interface [package]" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LoginController" />
-        <item itemvalue="Application.ZuulGetWayApplication" />
-        <item itemvalue="Application.PlatServiceApplication" />
-        <item itemvalue="Application.EurekaServiceApplication" />
+        <item itemvalue="Maven.plat_interface [package]" />
+        <item itemvalue="Maven.plat_parent [install]" />
+        <item itemvalue="Maven.plat_parent [clean]" />
+        <item itemvalue="Maven.plat_parent [package]" />
+        <item itemvalue="Maven.basic_util [package]" />
       </list>
     </recent_temporary>
   </component>
@@ -302,20 +551,36 @@
       <updated>1547023113259</updated>
       <workItem from="1547023114864" duration="9529000" />
       <workItem from="1547080989480" duration="3506000" />
+      <workItem from="1547168380465" duration="3319000" />
+      <workItem from="1547189492462" duration="6925000" />
+      <workItem from="1547254338878" duration="1299000" />
+      <workItem from="1547258093556" duration="115000" />
+      <workItem from="1547262606329" duration="53000" />
+      <workItem from="1547267949803" duration="952000" />
+      <workItem from="1547269310017" duration="493000" />
+      <workItem from="1547269834387" duration="136000" />
+      <workItem from="1547270079418" duration="1507000" />
     </task>
+    <task id="LOCAL-00001" summary="嘻哈">
+      <created>1547168944598</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1547168944598</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13035000" />
+    <option name="totallyTimeSpent" value="27834000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.3298969" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32890856" />
       <window_info anchor="bottom" id="JRebel Console" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" weight="0.2704266" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.29624665" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="JRebel Executor" order="7" />
       <window_info id="Capture Tool" order="2" />
@@ -326,15 +591,17 @@
       <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.35744682" />
+      <window_info anchor="bottom" id="Run Dashboard" order="8" weight="0.30973452" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.7979351" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37905604" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15482573" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23592493" />
       <window_info anchor="right" id="Bean Validation" order="3" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info id="JRebel" order="2" side_tool="true" />
@@ -342,12 +609,11 @@
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="7" />
-      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.45949927" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -356,7 +622,133 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="嘻哈" />
+    <option name="LAST_COMMIT_MESSAGE" value="嘻哈" />
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/spring_config_service_1299/src/main/java/cn/yangchao/springcloud/SpringCogfigServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plat_parent/plat_service_8001/src/main/java/cn/yangchao/loveshopping/PlatServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuul_getway_4396/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuul_getway_4396/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuul_getway_4396/src/main/java/cn/yangchao/loveshopping/ZuulGetWayApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuul_getway_4396/src/main/java/cn/yangchao/loveshopping/config/SwaggerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuul_getway_4396/src/main/java/cn/yangchao/loveshopping/config/DocumentationConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plat_parent/plat_service_8001/src/main/java/cn/yangchao/loveshopping/config/Swagger2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8304">
+          <caret line="346" column="13" selection-start-line="346" selection-start-column="13" selection-end-line="346" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka_service_7001/src/main/java/cn/yangchao/loveshopping/EurekaServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_config_service_1299/src/main/java/cn/yangchao/springcloud/SpringCogfigServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plat_parent/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plat_parent/plat_service_8001/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1176">
+          <caret line="49" column="11" selection-start-line="49" selection-start-column="11" selection-end-line="49" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plat_parent/plat_service_8001/src/main/java/cn/yangchao/loveshopping/PlatServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuul_getway_4396/src/main/java/cn/yangchao/loveshopping/ZuulGetWayApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuul_getway_4396/src/main/java/cn/yangchao/loveshopping/ZuulGetWayApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuul_getway_4396/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="12" lean-forward="true" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/basic_parent/basic_util/src/main/java/cn/yangchao/loveshopping/util/AjaxResult.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
@@ -368,58 +760,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
           <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="473">
-          <caret line="38" column="27" selection-start-line="38" selection-start-column="27" selection-end-line="38" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/eureka_service_7001/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="607">
-          <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/eureka_service_7001/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/basic_parent/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/plat_parent/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic_parent/basic_util/src/main/java/cn/yangchao/loveshopping/query/BasicQuery.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/basic_parent/basic_util/src/main/java/cn/yangchao/loveshopping/a.java" />
     <entry file="file://$PROJECT_DIR$/basic_parent/basic_util/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plat_parent/plat_interface/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -430,79 +781,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/plat_parent/plat_service_8001/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="607">
-          <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuul_getway_4396/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="607">
-          <caret line="45" column="21" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plat_parent/plat_service_8001/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="27" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/zuul_getway_4396/src/main/java/cn/yangchao/loveshopping.java" />
-    <entry file="file://$PROJECT_DIR$/eureka_service_7001/src/main/java/cn/yangchao/loveshopping/EurekaServiceApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="62" selection-start-line="10" selection-start-column="62" selection-end-line="10" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plat_parent/plat_service_8001/src/main/java/cn/yangchao/loveshopping/PlatServiceApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plat_parent/plat_service_8001/src/main/java/cn/yangchao/loveshopping/config/Swagger2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="25" column="25" lean-forward="true" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/plat_parent/plat_service_8001/src/main/java/cn/yangchao/loveshopping/controller/LoginController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuul_getway_4396/src/main/java/cn/yangchao/loveshopping/config/SwaggerConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuul_getway_4396/src/main/java/cn/yangchao/loveshopping/config/DocumentationConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -513,22 +796,168 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/spring_config_server_9001/src/main/resources/application.yml" />
+    <entry file="file://$PROJECT_DIR$/basic_parent/basic_util/src/main/java/cn/yangchao/loveshopping/query/BasicQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_config_server_1299/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/spring_config_server_9001/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka_service_7001/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plat_parent/plat_service_8001/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="27" lean-forward="true" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plat_parent/plat_service_8001/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_config_service_1299/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka_service_7001/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="36" column="80" selection-start-line="36" selection-start-column="80" selection-end-line="36" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_config_service_1299/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="48" column="32" selection-start-line="48" selection-start-column="32" selection-end-line="48" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuul_getway_4396/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="57" column="77" selection-start-line="57" selection-start-column="77" selection-end-line="57" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plat_parent/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plat_parent/plat_interface/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plat_parent/plat_service_8001/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1176">
+          <caret line="49" column="11" selection-start-line="49" selection-start-column="11" selection-end-line="49" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_config_service_1299/src/main/java/cn/yangchao/springcloud/SpringCogfigServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plat_parent/plat_service_8001/src/main/java/cn/yangchao/loveshopping/PlatServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="346" column="13" selection-start-line="346" selection-start-column="13" selection-end-line="346" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/zuul_getway_4396/src/main/java/cn/yangchao/loveshopping/ZuulGetWayApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#427#428#0" expanded="true" />
-            <element signature="e#493#494#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="48">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/zuul_getway_4396/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" column="12" lean-forward="true" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        <state relative-caret-position="96">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuul_getway_4396/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka_service_7001/src/main/java/cn/yangchao/loveshopping/EurekaServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
+            <element signature="e#426#427#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plat_parent/plat_service_8001/src/main/java/cn/yangchao/loveshopping/config/Swagger2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="23" column="65" lean-forward="true" selection-start-line="23" selection-start-column="65" selection-end-line="23" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuul_getway_4396/src/main/java/cn/yangchao/loveshopping/config/DocumentationConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuul_getway_4396/src/main/java/cn/yangchao/loveshopping/config/SwaggerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="24" column="58" selection-start-line="24" selection-start-column="58" selection-end-line="24" selection-end-column="58" />
         </state>
       </provider>
     </entry>
