@@ -7,12 +7,16 @@ eureka:
   instance:
     prefer-ip-address: true
 spring:
+  profiles:
+    active: native
   application:
     name: loveshopping-config-server
   cloud:
     config:
       server:
-        git:
-          uri: https://github.com/FightSuperYang/spring-config-servicer.git
-          username: FightSuperYang
-          password: Yc18728707817
+        native:
+          search-locations: D:/0731JAVA/idearepository/admin/spring-config-servicer
+ #       git:
+  #        uri: https://github.com/FightSuperYang/spring-config-servicer.git
+  #         username: FightSuperYang
+  #         password: Yc18728707817

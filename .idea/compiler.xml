@@ -8,8 +8,11 @@
         <outputRelativeToContentRoot value="true" />
         <module name="basic_util" />
         <module name="eureka_service_7001" />
+        <module name="loveshopping_gen" />
         <module name="plat_interface" />
         <module name="plat_service_8001" />
+        <module name="product_interface" />
+        <module name="product_service_8002" />
         <module name="spring_config_service_1299" />
         <module name="zuul_getway_4396" />
       </profile>

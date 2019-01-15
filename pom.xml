@@ -14,6 +14,8 @@
         <module>basic_parent</module>
         <module>zuul_getway_4396</module>
         <module>spring_config_service_1299</module>
+        <module>loveshopping_gen</module>
+        <module>product_parent</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
